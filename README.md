@@ -31,12 +31,11 @@
 
 ## Subjects
 ![DBMS](https://img.shields.io/badge/-DBMS-05122A?style=flat-square&color=353535)
-![Data Science](https://img.shields.io/badge/-Data%20Science-05122A?style=flat-square&color=353535)
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-05122A?style=flat-square&color=353535)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&color=353535)
+![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-05122A?style=flat-square&color=353535)
+![Big Data Technology](https://img.shields.io/badge/-Big%20Data%20Technology-05122A?style=flat-square&color=353535)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-05122A?style=flat-square&color=353535)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat-square&color=353535)
-![Operating System](https://img.shields.io/badge/-Operating%20System-05122A?style=flat-square&color=353535)
-![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-05122A?style=flat-square&color=353535)
-
 
 ## IDEs
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) 
