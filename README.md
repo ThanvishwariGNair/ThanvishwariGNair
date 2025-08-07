@@ -1,21 +1,16 @@
-<h1 align="center">Hi 👋, I'm KRISHNA MOHAN PANDEY</h1>
+<h1 align="center">Hi 👋, I'm Thanvishwari Nair</h1>
 <p align="center">
-  <b>Data Analyst</b> | <b>Business Analyst</b> | <b>Power BI Developer</b> | <b>MIS Executive</b> | <b>Python Developer</b>
+  <b>Data Analyst</b>| <b>Power BI Developer</b> | <b>Python Developer</b>
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnnaa10&label=Profile%20views&color=0e75b6&style=flat" alt="krishnnaa10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThanvishwariGNair&label=Profile%20views&color=0e75b6&style=flat" alt="Thanvishwari" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnnaa10&show_icons=true&locale=en&layout=compact" alt="krishnnaa10" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThanvishwariGNair&show_icons=true&locale=en&layout=compact" alt="Thanvishwari" /></p>
 
-<h3 align="left">🌱 I’m currently learning</h3>
-<ul>
-  <li>Figma</li>
-  <li>Web Scraping (beautifulSoup)</li>
-  <li>Microsoft Azure</li>
-</ul>
 
-## Portfolio : https://krishnnaa10.github.io/
+
+## Portfolio :
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
